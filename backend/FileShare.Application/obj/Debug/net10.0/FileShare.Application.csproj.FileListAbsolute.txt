@@ -1,0 +1,16 @@
+D:\vscode\smart-share\backend\FileShare.Application\bin\Debug\net10.0\FileShare.Application.deps.json
+D:\vscode\smart-share\backend\FileShare.Application\bin\Debug\net10.0\FileShare.Application.dll
+D:\vscode\smart-share\backend\FileShare.Application\bin\Debug\net10.0\FileShare.Application.pdb
+D:\vscode\smart-share\backend\FileShare.Application\bin\Debug\net10.0\FileShare.Domain.dll
+D:\vscode\smart-share\backend\FileShare.Application\bin\Debug\net10.0\FileShare.Domain.pdb
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\FileShare.Application.csproj.AssemblyReference.cache
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\FileShare.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\FileShare.Application.AssemblyInfoInputs.cache
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\FileShare.Application.AssemblyInfo.cs
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\FileShare.Application.csproj.CoreCompileInputs.cache
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\FileShare.Application.sourcelink.json
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\FileShar.2C8E269A.Up2Date
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\FileShare.Application.dll
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\refint\FileShare.Application.dll
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\FileShare.Application.pdb
+D:\vscode\smart-share\backend\FileShare.Application\obj\Debug\net10.0\ref\FileShare.Application.dll

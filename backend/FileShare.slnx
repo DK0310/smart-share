@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FileShare.API/FileShare.API.csproj" />
+  <Project Path="FileShare.Application/FileShare.Application.csproj" />
+  <Project Path="FileShare.Domain/FileShare.Domain.csproj" />
+  <Project Path="FileShare.Infrastructure/FileShare.Infrastructure.csproj" />
+</Solution>

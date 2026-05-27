@@ -1,0 +1,12 @@
+D:\vscode\smart-share\backend\FileShare.Domain\bin\Debug\net10.0\FileShare.Domain.deps.json
+D:\vscode\smart-share\backend\FileShare.Domain\bin\Debug\net10.0\FileShare.Domain.dll
+D:\vscode\smart-share\backend\FileShare.Domain\bin\Debug\net10.0\FileShare.Domain.pdb
+D:\vscode\smart-share\backend\FileShare.Domain\obj\Debug\net10.0\FileShare.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\smart-share\backend\FileShare.Domain\obj\Debug\net10.0\FileShare.Domain.AssemblyInfoInputs.cache
+D:\vscode\smart-share\backend\FileShare.Domain\obj\Debug\net10.0\FileShare.Domain.AssemblyInfo.cs
+D:\vscode\smart-share\backend\FileShare.Domain\obj\Debug\net10.0\FileShare.Domain.csproj.CoreCompileInputs.cache
+D:\vscode\smart-share\backend\FileShare.Domain\obj\Debug\net10.0\FileShare.Domain.sourcelink.json
+D:\vscode\smart-share\backend\FileShare.Domain\obj\Debug\net10.0\FileShare.Domain.dll
+D:\vscode\smart-share\backend\FileShare.Domain\obj\Debug\net10.0\refint\FileShare.Domain.dll
+D:\vscode\smart-share\backend\FileShare.Domain\obj\Debug\net10.0\FileShare.Domain.pdb
+D:\vscode\smart-share\backend\FileShare.Domain\obj\Debug\net10.0\ref\FileShare.Domain.dll
